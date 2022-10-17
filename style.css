@@ -36,11 +36,52 @@ header > h1 {
 }
 
 main {
+      
       height: 98vh;
       width: 100%;
       
       background-color: white;
 }
+
+
+main p {
+       
+     width: auto; 
+     
+
+     margin: 10px; 
+     padding: 10px;
+     display: block;
+     text-align: center;
+     
+   
+    
+
+}
+
+main > p > a {
+     
+      
+      text-align: left;
+      display: block;
+      color: black;
+      font-weight: normal;
+      font-style: normal;
+      font-size: 1em;
+      text-decoration: underline;
+      padding: 10px;
+       
+}
+
+main > p > a:hover {
+      
+    color: blue;
+    text-decoration: underline;
+    fon
+      
+}
+
+
 
 footer {
       background-color: black;
@@ -62,3 +103,4 @@ footer > h1 {
 
 }
  
+
